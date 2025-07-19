@@ -12,9 +12,6 @@ Just your normal Software Engineer + Game Developer 💻 grinding to build proje
 ![](https://nirzak-streak-stats.vercel.app/?user=Turb08&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Turb08&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Turb08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
